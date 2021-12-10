@@ -1,1 +1,0 @@
-adventjs-challenge-1
